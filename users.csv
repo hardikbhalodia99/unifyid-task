@@ -1,0 +1,11 @@
+userid,firstname,surname,username,type,lastlogintime,lastname,usertype,lastlogin time,lastlogin_time
+1,John,Doe,John1,Employee,12-01-2015 12:01:34,undefined,undefined,undefined,undefined
+2,Mary,Jane,Mary23,Employee,01-11-2014 13:45:42,undefined,undefined,undefined,undefined
+3,David,undefined,Dpayne,undefined,undefined,Payne,Manager,23-09-2014 09:35:02,undefined
+4,Joe,undefined,joey99,undefined,undefined,Public,Employee,undefined,22-09-2014 08:23:54
+5,Gary,undefined,gary23,undefined,undefined,May,Manager,undefined,02-01-2015 12:09:35
+6,Jessica,undefined,jj56,undefined,undefined,James,Employee,undefined,13-01-2015 08:56:12
+7,Frank,undefined,franky,undefined,undefined,Bruno,employee,undefined,12-01-2015 16:15:43
+8,Bob,undefined,bobby3,undefined,undefined,Marley,Manager,undefined,01-02-2015 13:01:00
+9,Shaun,Stevens,shaun,Employee,01-02-2015 13:00:00,undefined,undefined,undefined,undefined
+10,Ruby,undefined,ruby,undefined,undefined,Wax,Employee,12-12-2014 08:09:13,undefined
